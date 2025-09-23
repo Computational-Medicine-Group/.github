@@ -4,7 +4,7 @@
 
 ## About Us 👋
 
-We are  the **Computational Medicine Group** at the Inselspital Bern, under the supervision of **Prof. Dr. Alexander Leichtle**. Our research focuses on leveraging **machine learning** and **big data** to improve clinical diagnostics and personalized medicine.
+We are  the **Computational Medicine Group**, under the supervision of **Prof. Dr. Alexander Leichtle**. Our research focuses on leveraging **machine learning** and **big data** to improve clinical diagnostics and personalized medicine.
 
 **Computational Medicine** is a new field of medicine at the interface between data generating (mainly diagnostic) medical disciplines (e.g. "-omics")  and data science (informatics, statistics). It provides information on patients, their health and underlying processes and pathways by exhaustive computational and statistical methodology, that exceed the capacities of conventional approaches.
 
